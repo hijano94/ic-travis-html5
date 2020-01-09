@@ -1,7 +1,6 @@
 # Integración continúa: Comprobación de html5 válido y Despliegue en surge.sh 
 
-[![Build Status](https://travis-ci.org/hijano94/ic-travis-html5.svg?branch=master)](https://travis-ci.org/hijano94/ic-travis-html5)
-
+![](https://github.com/hijano94/ic-travis-html5/workflows/CI/badge.svg)
 
 Integración continúa con travis que realiza dos operaciones:
 
